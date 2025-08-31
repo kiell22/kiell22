@@ -20,9 +20,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Kiell's GitHub stats](https://github-readme-stats.vercel.app/api?username=rissss21&show_icons=true&count_private=true&include_all_commits=true&theme=radical)  
+![Kiell's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiell22&show_icons=true&count_private=true&include_all_commits=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rissss21&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiell22&layout=compact&theme=radical)
 
 ---
 
