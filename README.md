@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Kiell  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Hi%2C+I'm+Faris!;Software+Developer;Tech+Explorer;AI+%2F+ML+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Hi%2C+I'm+Kiell!;Software+Developer;Tech+Explorer;AI+%2F+ML+Enthusiast)](https://git.io/typing-svg)
 
 💡 Passionate about crafting mobile apps and building modern web experiences.  
 🌱 Currently exploring **Flutter, Next.js, and UI/UX design principles**.  
@@ -20,7 +20,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Faris's GitHub stats](https://github-readme-stats.vercel.app/api?username=rissss21&show_icons=true&count_private=true&include_all_commits=true&theme=radical)  
+![Kiell's GitHub stats](https://github-readme-stats.vercel.app/api?username=rissss21&show_icons=true&count_private=true&include_all_commits=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rissss21&layout=compact&theme=radical)
 
